@@ -18,4 +18,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
+### Oppurtunity
+Currently looking for the FTE Job/Internship oppurtunity to work with and showcase my skill and impliment it in the real time projects.
+
+
 
